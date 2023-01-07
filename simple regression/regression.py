@@ -5,3 +5,4 @@
 # 2. a hypothesis which is a parametric function & our task is finding its parameters
 # 3. a cost function which make a relation between "Data Set" & "Parameters of hypothesis"
 # 4. an optimization method which optimize the cost function
+print ('Happy birthday the most real man in the life')
